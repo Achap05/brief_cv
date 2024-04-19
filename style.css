@@ -1,0 +1,25 @@
+* {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  font-size: 10px;
+  }
+  
+  body {
+  background-color: #FCEACF;
+  font-size: 8rem;
+} 
+
+  .title {
+    font-size: 8rem;
+    color:blue
+  }
+  
+  .nav_link:hover {
+    color: green;
+  }
+  
+  header {
+    justify-content: center;
+    background-color: lightseagreen;
+    font-size: 4rem;
+  }
