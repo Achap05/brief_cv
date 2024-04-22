@@ -58,11 +58,12 @@
   }
 
   .contact {
+    display: flex;
     justify-content: center;
-    justify-content: space-around;
+    align-content:center;
+    font-size: 2rem;
   }
 
   footer {
     background-color: #67AFB8;
-
   }
