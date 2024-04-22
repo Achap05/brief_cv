@@ -5,21 +5,57 @@
   }
   
   body {
-  background-color: #FCEACF;
+  background-color: lightgray;
   font-size: 8rem;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size:150rem;
 } 
 
   .title {
     font-size: 8rem;
-    color:blue
+    color: black
   }
-  
+      
+  nav {
+    font-size: 2rem ;
+  }
   .nav_link:hover {
     color: green;
   }
   
+  .nav_link {
+    container: center;
+    height: 4rem;
+    width: 4rem;
+     display: inline-block;
+     justify-content: center;
+     justify-content: space-around;
+      color: white;
+      text-decoration: none;
+      transition: color 0.3s;
+      font-weight: bold;
+      font-size: 20px;
+  }
+
   header {
     justify-content: center;
-    background-color: lightseagreen;
+    background-color: #67AFB8;
     font-size: 4rem;
+    height: 10rem;
+  }
+
+  .center_text{
+    font-size: 3rem;
+  }
+  .title2 {
+    font-size: 4rem;
+  }
+
+  .main_text {
+    font-size: 3rem;
+  }
+  footer {
+    background-color: #67AFB8;
+    align-items: flex-end;
   }
