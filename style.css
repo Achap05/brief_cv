@@ -48,6 +48,7 @@
   .center_text{
     font-size: 3rem;
   }
+
   .title2 {
     font-size: 4rem;
   }
@@ -55,7 +56,13 @@
   .main_text {
     font-size: 3rem;
   }
+
+  .contact {
+    justify-content: center;
+    justify-content: space-around;
+  }
+
   footer {
     background-color: #67AFB8;
-    align-items: flex-end;
+
   }
